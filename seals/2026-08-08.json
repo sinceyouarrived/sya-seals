@@ -1,0 +1,7 @@
+{
+  "date": "2026-08-08",
+  "sealCommitmentHash": "6292daa63418d1f92bc697f2c9c1d3a79f88503ccb1eb60bab87565d031167ac",
+  "committedAt": "2026-08-06T03:01:37.799Z",
+  "page": "https://sinceyouarrived.world/taken/agents",
+  "purpose": "Third-party-witnessed timestamp for the seal commitment. Cleartext withheld until a public return is found; recomputed SHA-256 of the revealed cleartext must match the hash above."
+}
